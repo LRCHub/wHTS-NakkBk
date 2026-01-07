@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "XY&Z",
+  "base_artist": "サトシ(CV:松本梨香)",
+  "createdAt": "2026-01-07T16:32:06.162450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "XY&Z (From \"Pokémon XY&Z\")",
+      "artist": "Silver Storm",
+      "has_synced": true,
+      "path": "select/01_XY&Z_(From__Pokémon_XY&Z_)_Silver_Storm.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "XY&Z",
+      "artist": "Silver Storm",
+      "has_synced": true,
+      "path": "select/02_XY&Z_Silver_Storm.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "XY&Z",
+      "artist": "サトシ(CV:松本梨香)",
+      "has_synced": true,
+      "path": "select/03_XY&Z_サトシ(CV_松本梨香).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "XY&Z (Pokemon XY & Z Opening)",
+      "artist": "PelleK",
+      "has_synced": true,
+      "path": "select/04_XY&Z_(Pokemon_XY_&_Z_Opening)_PelleK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "XY&Z (From \"Pokémon XYZ: The Series\")",
+      "artist": "Guitarrista de Atena",
+      "has_synced": false,
+      "path": "select/05_XY&Z_(From__Pokémon_XYZ__The_Series_)_Guitarrista_de_Atena.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "XY&Z (From \"Pokemon XY&Z\")",
+      "artist": "Laharl Square",
+      "has_synced": false,
+      "path": "select/06_XY&Z_(From__Pokemon_XY&Z_)_Laharl_Square.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "XY&Z",
+      "artist": "サトシ",
+      "has_synced": true,
+      "path": "select/07_XY&Z_サトシ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "XY&Z (From \"Pokémon XY&Z\") [Portuguese]",
+      "artist": "Miura Jam",
+      "has_synced": true,
+      "path": "select/08_XY&Z_(From__Pokémon_XY&Z_)_[Portuguese]_Miura_Jam.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "xy&z -movie ver.-",
+      "artist": "satoshi (cv: matsumoto rika)",
+      "has_synced": true,
+      "path": "select/09_xy&z_-movie_ver.-_satoshi_(cv__matsumoto_rika).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "XY＆Z",
+      "artist": "サトシ(松本梨香)",
+      "has_synced": true,
+      "path": "select/10_XY&Z_サトシ(松本梨香).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "XY&Z",
+      "artist": "Satoshi (CV: Rica Matsumoto)",
+      "has_synced": true,
+      "path": "select/11_XY&Z_Satoshi_(CV__Rica_Matsumoto).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "XY & Z",
+      "artist": "サトシ (松本梨香)",
+      "has_synced": true,
+      "path": "select/12_XY_&_Z_サトシ_(松本梨香).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "XY&Z",
+      "artist": "サトシ(CV:松本梨香)",
+      "has_synced": true,
+      "path": "select/13_XY&Z_サトシ(CV_松本梨香).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "XY&Z (From \"Pokémon XY&Z\") [English]",
+      "artist": "Miura Jam",
+      "has_synced": false,
+      "path": "select/14_XY&Z_(From__Pokémon_XY&Z_)_[English]_Miura_Jam.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "XY&Z-movie ver.-",
+      "artist": "サトシ(CV:松本梨香)",
+      "has_synced": true,
+      "path": "select/15_XY&Z-movie_ver.-_サトシ(CV_松本梨香).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "XY&Z",
+      "artist": "サトシ(CV:松本梨香)",
+      "has_synced": false,
+      "path": "select/pl_01_XY&Z_サトシ(CV_松本梨香).txt"
+    }
+  ]
+}
